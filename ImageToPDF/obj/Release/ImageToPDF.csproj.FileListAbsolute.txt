@@ -1,0 +1,10 @@
+E:\VS2015\ImageToPDF\ImageToPDF\bin\Release\ImageToPDF.exe.config
+E:\VS2015\ImageToPDF\ImageToPDF\bin\Release\ImageToPDF.exe
+E:\VS2015\ImageToPDF\ImageToPDF\bin\Release\ImageToPDF.pdb
+E:\VS2015\ImageToPDF\ImageToPDF\bin\Release\itextsharp.dll
+E:\VS2015\ImageToPDF\ImageToPDF\bin\Release\itextsharp.xml
+E:\VS2015\ImageToPDF\ImageToPDF\obj\Release\ImageToPDF.Dashboard.resources
+E:\VS2015\ImageToPDF\ImageToPDF\obj\Release\ImageToPDF.Properties.Resources.resources
+E:\VS2015\ImageToPDF\ImageToPDF\obj\Release\ImageToPDF.csproj.GenerateResource.Cache
+E:\VS2015\ImageToPDF\ImageToPDF\obj\Release\ImageToPDF.exe
+E:\VS2015\ImageToPDF\ImageToPDF\obj\Release\ImageToPDF.pdb
