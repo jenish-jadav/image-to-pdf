@@ -230,7 +230,7 @@ namespace ImageToPDF
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process.Start("mailto:jadav.jenish@outlook.com");
+            
         }
 
         //public static void Temp()
